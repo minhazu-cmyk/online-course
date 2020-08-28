@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+.cart-area{
+    border: 1px solid blue;
+    position: relative;
+    left: 200px;
+    margin-left: 20px;
+    padding: 15px;
+    box-shadow: greenyellow;
+    background-color: rosybrown;
+    color: black;
+}
